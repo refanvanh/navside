@@ -21,7 +21,7 @@ window.addEventListener('load', function () {
     });
 });
 
-// Tambahkan CSS animasi
+// Tambahkan CSS animasi - tes
 const style = document.createElement('style');
 style.textContent = `
     @keyframes fadeIn {
